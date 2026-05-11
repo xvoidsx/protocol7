@@ -1,7 +1,9 @@
 # protocol7
 <img width="834" height="469" alt="image" src="https://github.com/user-attachments/assets/303aa67d-d806-4cde-9d51-ec59922cec37" />
 *Protocol7 is the headless version of naviOS, maintaining the Wired look and feel for server setups.*
+
 ### about protocol7
+
 **protocol7** is the replication of the wiredWM environment for the server. It allows you to take the keybinds and aesthetic you know and love from the desktop edition of naviOS, and duplicates it on the TTY, with our highly-configured `tmux` as the centerpiece, granting you powers to spawn new panes (windows) in your environment, switch between them at will, and work just as efficiently as you can on your naviOS desktop.
 
 **protocol7** aims to bridge the gap and work seamlessly no matter what environment you're in, giving you consistency across the Wired. Whether you're docked into your normal Wayland session, or SSHing into a remote node from a dark room.
