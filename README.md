@@ -19,13 +19,14 @@ Here's a quick cheat-sheet for getting going with **protocol7**:
 
 > Please note your `Prefix` is **CTRL+Space**. Think of the prefix as your **meta** key from **wiredWM**!
 
-- `Prefix` + `Enter`:	Create new window
-- `Prefix` + `h / v`:	Split pane (horizontal/vertical)
-- `Prefix` + `j k l ;`:	Navigate the grid
-- `Prefix` + `r`:	Resize mode (Use `j k l ;` to tune, `Esc` to lock)
-- `Prefix` + `f`:	Zoom (toggle fullscreen)
-- `Prefix` + `Q`:	Kill current pane
-- `Prefix` + `C-r`:	Hot-reload tmux
+- `Prefix` + `Enter`:	create new window
+- `Prefix` + `h / v`:	split pane (horizontal/vertical)
+- `Prefix` + `j k l ;`:	navigate the grid
+- `Prefix` + `Shift` + `j k l ;`: switch the positions of panes in the grid
+- `Prefix` + `r`:	resize mode (Use `j k l ;` to tune, `Esc` to lock)
+- `Prefix` + `f`:	zoom (toggle fullscreen)
+- `Prefix` + `Q`:	kill current pane
+- `Prefix` + `C-r`:	hot-reload tmux
 
 ### visual hints
 
