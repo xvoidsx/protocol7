@@ -34,3 +34,7 @@ You'll notice some text hints when using certain shortcuts. In the **protocol hu
 
 - **PREFIX** (in cyan): The prefix keybind has been pressed and the system is waiting on the next part of the input.
 - **ZOOM** (in neon green): The active pane was maximized and the rest of the grid is obscured until it is re-tiled.
+
+### relevant links
+
+- [protocol7](https://rav3ndust.xyz/blog/2026-05-19.html): further writeup about **protocol7** 
