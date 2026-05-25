@@ -17,7 +17,7 @@
 
 Here's a quick cheat-sheet for getting going with **protocol7**: 
 
-> Please note your `Prefix` is **CTRL+Space**. Think of the prefix as your **meta** key from **wiredWM**!
+> Please note your `Prefix` is **CTRL+Space**. Think of the prefix as your **Super** key from **wiredWM**!
 
 - `Prefix` + `Enter`:	create new window
 - `Prefix` + `h / v`:	split pane (horizontal/vertical)
