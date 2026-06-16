@@ -9,15 +9,15 @@ install_pkgs () {
 }
 setup_doas () {
 	local doas_conf="/etc/doas.conf"
-	echo "permit persist $USER as root" | sudo tee $doas_conf
+	echo "permit persist ${USER} as root" | sudo tee "$doas_conf"
 }
 copy_configs () {
 	local vim_conf="$HOME/.vimrc"
 	local tmux_conf="$HOME/.tmux.conf"
 	local bash_conf="$HOME/.bashrc"
-	cp configs/vimrc $vim_conf
-	cp configs/tmux.conf $tmux_conf
-	cp configs/bashrc $bash_conf
+	cp configs/vimrc "$vim_conf"
+	cp configs/tmux.conf "$tmux_conf"
+	cp configs/bashrc "$bash_conf"
 }
 main () {
 	install_pkgs
