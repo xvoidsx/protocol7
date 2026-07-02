@@ -3,7 +3,7 @@
 # XXX more stuff is going to be added soon
 set -euo pipefail
 install_pkgs () {
-	local pkgs=("tmux" "vim" "amfora" "lynx" "opendoas" "nnn")
+	local pkgs=("tmux" "vim" "amfora" "lynx" "links" "cmus" "cava" "opendoas" "nnn" "tty-clock" "calcurse")
 	echo "installing needed packages..."; sleep 1
 	sudo apt update; sudo apt install "${pkgs[@]}" -y
 }
