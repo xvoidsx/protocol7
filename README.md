@@ -35,6 +35,13 @@ You'll notice some text hints when using certain shortcuts. In the **protocol hu
 - **PREFIX** (in cyan): The prefix keybind has been pressed and the system is waiting on the next part of the input.
 - **ZOOM** (in neon green): The active pane was maximized and the rest of the grid is obscured until it is re-tiled.
 
+### in the works
+
+You are going to be able to soon choose between making a choice between using `tmux` or `herdr` as your multiplexer of choice. Here is a sneak peek of what the `herdr` config looks like:
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1448d276-eed9-41ac-8dc7-9f0024812d40" />
+
 ### relevant links
 
-- [protocol7](https://rav3ndust.xyz/blog/2026-05-19.html): further writeup about **protocol7** 
+- [protocol7](https://rav3ndust.xyz/blog/2026-05-19.html): further writeup about **protocol7**
+
