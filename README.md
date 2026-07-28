@@ -39,7 +39,7 @@ You'll notice some text hints when using certain shortcuts. In the **protocol hu
 
 You are going to be able to soon choose between using `tmux` or `herdr` as your multiplexer of choice. Here is a sneak peek of what the `herdr` config looks like:
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c85d84ba-d692-4eb2-abc2-278ab5fb6009" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/59f584fb-986b-4796-9bba-a087903f7bdb" />
 
 ### relevant links
 
