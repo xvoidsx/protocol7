@@ -5,11 +5,11 @@
 
 ### about protocol7
 
-**protocol7** is the replication of the wiredWM environment for the server. It allows you to take the keybinds and aesthetic you know and love from the desktop edition of naviOS, and duplicates it on the TTY, with our highly-configured `tmux` as the centerpiece, granting you powers to spawn new panes (windows) in your environment, switch between them at will, and work just as efficiently as you can on your naviOS desktop.
+**protocol7** is the replication of the wiredWM environment for the server. It allows you to take the keybinds and aesthetic you know and love from the desktop edition of naviOS, and duplicates it on the TTY, with our highly-configured `tmux` and `herdr` multiplexers as the centerpieces, granting you powers to spawn new panes (windows) in your environment, switch between them at will, and work just as efficiently as you can on your naviOS desktop.
 
 **protocol7** aims to bridge the gap and work seamlessly no matter what environment you're in, giving you consistency across the Wired. Whether you're docked into your normal Wayland session, or SSHing into a remote node from a dark room.
 
-- **wired tiling logic**: Our `tmux` config closely mirrors the keybinds from our **wiredWM** environment, replicating the tiling flow carefully.
+- **wired tiling logic**: Our `tmux` and `herdr` configs closely mirror the keybinds from our **wiredWM** environment, replicating the tiling flow carefully.
 - **cognitive focus**: Your inactive panes are dimmed when not in use, so you can easily tell which pane you're actively working in.
 - **status bar synergy**: At the top of our `tmux` session, you will see modules showing your current workspace, your current activity, and the time and date. Inspired by the `waybar` in **wiredWM**!
 
@@ -21,9 +21,9 @@ Here's a quick cheat-sheet for getting going with **protocol7**:
 
 - `Prefix` + `Enter`:	create new window
 - `Prefix` + `h / v`:	split pane (horizontal/vertical)
-- `Prefix` + `j k l ;`:	navigate the grid
-- `Prefix` + `Shift` + `j k l ;`: switch the positions of panes in the grid
-- `Prefix` + `r`:	resize mode (Use `j k l ;` to tune, `Esc` to lock)
+- `Prefix` + **arrow keys**:    navigate the grid
+- `Prefix` + `Shift` + **arrow keys**: switch the positions of panes in the grid
+- `Prefix` + `r`:	resize mode (use **arrow keys** to tune, `Esc` to lock)
 - `Prefix` + `f`:	zoom (toggle fullscreen)
 - `Prefix` + `Q`:	kill current pane
 - `Prefix` + `C-r`:	hot-reload tmux
@@ -43,5 +43,4 @@ You are going to be able to soon choose between using `tmux` or `herdr` as your 
 
 ### relevant links
 
-- [protocol7](https://rav3ndust.xyz/blog/2026-05-19.html): further writeup about **protocol7**
-
+- [protocol7](https://rav3ndust.xyz/blog/2026-05-19.html): further writeup about **protocol7** 
