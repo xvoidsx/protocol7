@@ -1,5 +1,5 @@
 # protocol7
-<img width="834" height="469" alt="image" src="https://github.com/user-attachments/assets/303aa67d-d806-4cde-9d51-ec59922cec37" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/14e58d61-da7a-4108-8526-6f70c1ee3376" />
 
 *Protocol7 is the headless version of naviOS, maintaining the Wired look and feel for server setups.*
 
