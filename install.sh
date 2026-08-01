@@ -13,7 +13,7 @@ setup_doas () {
 }
 copy_configs () {
 	local vim_conf="$HOME/.vimrc"
-	local tmux_conf="$HOME/.tmux.conf"
+	local tmux_conf="$HOME/.config/tmux/tmux.conf"
 	local bash_conf="$HOME/.bashrc"
 	cp configs/vimrc "$vim_conf"
 	cp configs/tmux.conf "$tmux_conf"
