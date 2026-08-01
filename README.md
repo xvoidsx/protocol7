@@ -27,7 +27,7 @@ Here's a quick cheat-sheet for getting going with **protocol7**:
 - `Prefix` + `r`:	resize mode (use **arrow keys** to tune, `Esc` to lock)
 - `Prefix` + `f`:	zoom (toggle fullscreen)
 - `Prefix` + `Shift` + `Q`:	kill current pane
-- `Prefix` + `C-r`:	hot-reload tmux
+- `Prefix` + `Ctrl` + `r`:	hot-reload tmux
 
 ### visual hints
 
