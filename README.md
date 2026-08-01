@@ -19,9 +19,10 @@ Here's a quick cheat-sheet for getting going with **protocol7**:
 
 > Please note your `Prefix` is **CTRL+Space**. Think of the prefix as your **Super** key from **wiredWM**!
 
-- `Prefix` + `Enter`:	create new window
+- `Prefix` + `Enter`:	create new workspace
+- `Prefix` + **number keys**: move between workspaces
 - `Prefix` + `h / v`:	split pane (horizontal/vertical)
-- `Prefix` + **arrow keys**:    navigate the grid
+- `Prefix` + **arrow keys**: navigate the grid
 - `Prefix` + `Shift` + **arrow keys**: switch the positions of panes in the grid
 - `Prefix` + `r`:	resize mode (use **arrow keys** to tune, `Esc` to lock)
 - `Prefix` + `f`:	zoom (toggle fullscreen)
